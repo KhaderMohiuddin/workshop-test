@@ -106,7 +106,7 @@ You have to give all the privileges to the OML user for the tables you created i
 
 #### **STEP 5: Prepare the Data for Training ML Models in OAC**
 
--   Copy and paste the code snipper in [data_prep.sql](./files/scripts/data_prep.sql) file to your SQL Developer worksheet and run the script. This code prepares the portion of data that you will need for training an ML model in OAC .
+-   Copy and paste the code snippet in [data_prep.sql](./files/scripts/data_prep.sql) file to your SQL Developer worksheet and run the script. This code prepares the portion of data that you will need for training an ML model in OAC .
 
 
 <table>
