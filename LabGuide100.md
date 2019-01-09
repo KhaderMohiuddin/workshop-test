@@ -95,7 +95,7 @@ In this section you will be provisioning an ADW instance using the cloud console
 
 
 
-# Part 2. Creating an OML Users
+# Part 2. Creating OML Users
 
 
 #### **STEP 3: Creating OML Users**
